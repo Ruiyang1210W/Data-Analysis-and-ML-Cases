@@ -186,6 +186,4 @@ These capstone projects reinforced critical data science principles:
 
 ---
 
-## License
-
 This repository is for educational and portfolio purposes. Please do not redistribute project datasets without permission.

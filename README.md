@@ -182,10 +182,22 @@ These capstone projects reinforced critical data science principles:
 
 4. Navigate to any project notebook and run the cells sequentially
 
-**Note:** Some projects were developed in Google Colab. You may need to adjust file paths if running locally.
+**Note:** Some projects were developed in Google Colab. You may need to adjust file paths if running locally. Datasets are not included in this repository.
+
+---
+
+## About This Repository
+
+This repository contains educational projects completed as part of the **MIT IDSS Data Science and machine learning: making data-driven decisions**. The work is shared publicly for educational and professional development purposes with proper attribution to MIT IDSS.
+
+**Datasets:** Not included in this repository per educational use guidelines.
+
+**Original Work:** All analysis, code implementation, visualizations, insights, and recommendations are original work completed independently as part of the certification requirements.
 
 ---
 
 ## License
 
-This repository is for educational and portfolio purposes. Please do not redistribute project datasets without permission.
+MIT License - See [LICENSE](LICENSE) file for details.
+
+This repository is for educational and portfolio purposes. Project datasets are not redistributed in accordance with MIT IDSS guidelines.

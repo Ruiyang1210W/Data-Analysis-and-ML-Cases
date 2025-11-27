@@ -196,8 +196,6 @@ This repository contains educational projects completed as part of the **MIT IDS
 
 ---
 
-## License
-
 MIT License - See [LICENSE](LICENSE) file for details.
 
 This repository is for educational and portfolio purposes. Project datasets are not redistributed in accordance with MIT IDSS guidelines.

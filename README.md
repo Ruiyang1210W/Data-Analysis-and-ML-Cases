@@ -2,6 +2,8 @@
 
 This repository contains projects completed as part of the **MIT IDSS (Institute for Data, Systems, and Society) Data Science and machine learning: making data-driven decisions**. These projects demonstrate expertise in translating raw data into actionable insights through advanced machine learning techniques, statistical analysis, and designing objective functions aligned with business goals.
 
+The program officially ended in February 2025; Self-study courses were completed in March 2025.
+
 ## Overview
 
 The repository showcases two primary **capstone projects** focusing on machine learning optimization for business metrics, plus one foundational data analysis project. Each demonstrates end-to-end workflows including exploratory data analysis (EDA), feature engineering, cross-validated model development, hyperparameter tuning, and deployment-ready recommendations.

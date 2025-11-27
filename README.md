@@ -2,7 +2,7 @@
 
 This repository contains projects completed as part of the **MIT IDSS (Institute for Data, Systems, and Society) Data Science and machine learning: making data-driven decisions**. These projects demonstrate expertise in translating raw data into actionable insights through advanced machine learning techniques, statistical analysis, and designing objective functions aligned with business goals.
 
-The program officially ended in February 2025; Self-study courses were completed in March 2025.
+The program officially ended in February 2025; The remaining self-paced courses were completed in March 2025.
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # MIT IDSS Data Science & Machine Learning Projects
 
-This repository contains projects completed as part of the **MIT IDSS (Institute for Data, Systems, and Society) Data Science & Machine Learning Certificate Program**. These projects demonstrate expertise in translating raw data into actionable insights through advanced machine learning techniques, statistical analysis, and designing objective functions aligned with business goals.
+This repository contains projects completed as part of the **MIT IDSS (Institute for Data, Systems, and Society) Data Science and machine learning: making data-driven decisions**. These projects demonstrate expertise in translating raw data into actionable insights through advanced machine learning techniques, statistical analysis, and designing objective functions aligned with business goals.
 
 ## Overview
 
@@ -197,5 +197,3 @@ This repository contains educational projects completed as part of the **MIT IDS
 ---
 
 MIT License - See [LICENSE](LICENSE) file for details.
-
-This repository is for educational and portfolio purposes. Project datasets are not redistributed in accordance with MIT IDSS guidelines.
